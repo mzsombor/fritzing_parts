@@ -1,0 +1,102 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24.00mm 36.00mm" height="36.00mm"  width="24.00mm">
+    <desc >
+        <referenceFile >u-blox-NEO-6M-GPS_pcb.svg</referenceFile>
+    </desc>
+    <g id="silkscreen" gorn="0.1" >
+        <g id="g0001" gorn="0.1.0" >
+            <rect stroke-width="0.5" stroke="#000000" y="0" height="36"  fill="none" width="24" x="0"/>
+            <circle stroke-width="0.5" stroke="#000000" r="1.5" cy="33"  fill="none" cx="3"/>
+            <circle stroke-width="0.5" stroke="#000000" r="1.5" cy="33"  fill="none" cx="21"/>
+            <circle stroke-width="0.5" stroke="#000000" r="1.5" cy="3"  fill="none" cx="3"/>
+            <circle stroke-width="0.5" stroke="#000000" r="1.5" cy="3"  fill="none" cx="21"/>
+            <g transform="matrix(0,-1,1,0,0,0)" >
+                <g >
+                    <g >
+                        <g >
+                            <g >
+                                <g >
+                                    <g >
+                                        <text style="font-family:OCRA;font-size:1.20mm;fill:#000000;" y="8.5"  x="-32.46">GND</text>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g transform="matrix(0,-1,1,0,0,0)" >
+                <g >
+                    <g >
+                        <g >
+                            <g >
+                                <g >
+                                    <g >
+                                        <text style="font-family:OCRA;font-size:1.20mm;fill:#000000;" y="11"  x="-32.46">TX</text>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g transform="matrix(0,-1,1,0,0,0)" >
+                <g >
+                    <g >
+                        <g >
+                            <g >
+                                <g >
+                                    <g >
+                                        <text style="font-family:OCRA;font-size:1.20mm;fill:#000000;" y="13.5"  x="-32.46">RX</text>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g transform="matrix(0,-1,1,0,0,0)" >
+                <g >
+                    <g >
+                        <g >
+                            <g >
+                                <g >
+                                    <g >
+                                        <text style="font-family:OCRA;font-size:1.20mm;fill:#000000;" y="16"  x="-32.46">VCC</text>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g transform="matrix(0,-1,1,0,0,0)" >
+                <g >
+                    <g >
+                        <g >
+                            <g >
+                                <g >
+                                    <g >
+                                        <text style="font-family:OCRA;font-size:1.20mm;fill:#000000;" y="7.5"  x="-7">ANT</text>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g id="copper0" gorn="0.2" >
+        <g id="copper1" gorn="0.2.0" >
+            <g id="g0002" gorn="0.2.0.0" >
+                <circle stroke-width="0.49" stroke="#F7BD13" id="connector9pad" gorn="0.2.0.0.0" r="0.76" cy="33.73"  fill="none" cx="8"/>
+                <circle stroke-width="0.49" stroke="#F7BD13" id="connector8pad" gorn="0.2.0.0.1" r="0.76" cy="33.73"  fill="none" cx="10.5"/>
+                <circle stroke-width="0.49" stroke="#F7BD13" id="connector10pad" gorn="0.2.0.0.2" r="0.76" cy="33.73"  fill="none" cx="13"/>
+                <circle stroke-width="0.49" stroke="#F7BD13" id="connector11pad" gorn="0.2.0.0.3" r="0.76" cy="33.73"  fill="none" cx="15.5"/>
+                <circle stroke-width="0.49" stroke="#F7BD13" id="connector12pad" gorn="0.2.0.0.4" r="0.76" cy="3"  fill="none" cx="7"/>
+            </g>
+        </g>
+    </g>
+</svg>
